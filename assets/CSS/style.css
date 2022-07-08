@@ -127,10 +127,46 @@ body {
     border: 2px solid #18bbf1;;
 }
 
-.educationDiv {
+.informationDiv {
     margin: 30px;
 }
 
-.textEducation {
+.textDescription {
     margin-top: 2px;
+}
+
+.barDiv {
+    margin: auto;
+    margin-top: 13px;
+    border: 2px solid white;
+    width: 60%;
+    height: 20px;   
+}
+
+.bar1 {    
+    background: -webkit-linear-gradient(70deg, #18bbf1 80%, black 20%);
+    background: -o-linear-gradient(70deg, #18bbf1 80%, black 20%);
+    background: -moz-linear-gradient(70deg, #18bbf1 80%, black 20%);
+    /* background: linear-gradient(70deg, #ff6464 80%, #5ac8fa 20%); */
+}
+
+.bar2 {    
+    background: -webkit-linear-gradient(70deg, #18bbf1 74%, black 26%);
+    background: -o-linear-gradient(70deg, #18bbf1 74%, black 26%);
+    background: -moz-linear-gradient(70deg, #18bbf1 74%, black 26%);
+    /* background: linear-gradient(70deg, #ff6464 80%, #5ac8fa 20%); */
+}
+
+.bar3 {   
+    background: -webkit-linear-gradient(70deg, #18bbf1 95%, black 5%);
+    background: -o-linear-gradient(70deg, #18bbf1 95%, black 5%);
+    background: -moz-linear-gradient(70deg, #18bbf1 95%, black 5%);
+    /* background: linear-gradient(70deg, #ff6464 80%, #5ac8fa 20%); */
+}
+
+.bar4 {    
+    background: -webkit-linear-gradient(70deg, #18bbf1 60%, black 40%);
+    background: -o-linear-gradient(70deg, #18bbf1 60%, black 40%);
+    background: -moz-linear-gradient(70deg, #18bbf1 60%, black 40%);
+    /* background: linear-gradient(70deg, #ff6464 80%, #5ac8fa 20%); */
 }
