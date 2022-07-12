@@ -187,9 +187,11 @@ body {
 
     .leftColumn {
         /* width: 100%; */
-        height: 100%;
+        height: 300px;
         justify-content: start;
         align-items: flex-start;
+        padding-left: 0;
+
     }
     
     .centerColumn {
@@ -229,9 +231,11 @@ body {
 
     .leftColumn {
         /* width: 100%; */
-        height: 100%;
+        height: 250px;
         justify-content: start;
-        align-items: flex-start; 
+        align-items: flex-start;
+        border-image-repeat: repeat;
+ 
     }
     
     .centerColumn {
